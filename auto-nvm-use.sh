@@ -3,7 +3,7 @@
 # How to install:
 # 1. Download this script into your home folder
 # 2. Add this line to your .zshrc (after the loading of nvm): 
-#    [[ -s "$HOME/.auto-nvm-use.sh" ]] && source "$HOME/.auto-nvm-use.sh"
+#    [[ -s "$HOME/auto-nvm-use.sh" ]] && source "$HOME/auto-nvm-use.sh"
 # 3. Add this line after the one you added in step 2 to auto-use node versions in the directory where a new terminal is opened:
 #    use-node-version
 
